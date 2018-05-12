@@ -1,0 +1,19 @@
+/*
+class Coin
+--------
+public
+--------
+Coin()
+getNameCoin() string virtual
+setNameMint() string virtual
+getNameMint() string virtual
+getNameMet() string virtual
+getDate() int virtual
+getPriceOfCoin() double virtual
+getMeltValue() double virtual
+
+string nameOfCoin, nameOfMint, nameOfMetal;
+int dateOfCoin, mintChoice;
+double price, meltValue;
+
+*/
